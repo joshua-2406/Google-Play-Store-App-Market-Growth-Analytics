@@ -1,4 +1,5 @@
 Google-Play-Store-App-Market-Growth-Analytics
+
 Overview
 
 Public Play Store dataset (10,841 apps) cleaned in Python (pandas), then modeled and visualized in Power BI as a 4-page interactive dashboard — designed less as a set of charts and more as a strategy document: where's the whitespace, what pricing works, and what actually drives installs.
